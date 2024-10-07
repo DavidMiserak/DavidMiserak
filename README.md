@@ -1,5 +1,8 @@
-## Hi there 👋
+## 👋 Hi, I'm Dave
 
+- 📫 How to reach me: David.Miserak@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: If I had to learn to code from scratch again I would start with Pascal.
 <!--
 **DavidMiserak/DavidMiserak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
