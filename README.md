@@ -1,32 +1,45 @@
-## 👋 Hi, I'm Dave
+# 👋 Hi, I'm David Miserak
 
-- 📫 How to reach me: David.Miserak@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: If I had to learn to code from scratch again I would start with Pascal.
+DevOps Consultant and Software Engineer with a passion for cloud technologies and automation.
 
-### Credly
+## 🛠️ Key Skills & Technologies
 
-- [Credly Profile](https://www.credly.com/users/david-miserak)
+- **Languages:** Python, JavaScript, Go, Java, SQL, Bash
+- **Cloud & DevOps:** AWS, Docker, Kubernetes, Terraform, CI/CD, GitOps
+- **Frameworks:** React.js, React Native, Django, FastAPI, Flask
+- **AI & Data:** Machine Learning, PyTorch, NumPy, Pandas
+- **Methodologies:** Agile/Scrum, BDD/TDD, Microservices
 
-#### Credly Badge Highlights
+## 🧠 Certifications & Education
 
-<img src="./images/badge-meta-fullstack.png" width="100" height="100" alt="Meta Full-Stack Engineer" title="Meta Full-Stack Engineer" />
-<img src="./images/badge-aws-essentials.png" width="100" height="100" alt="AWS Cloud Essentials" title="AWS Cloud Essentials" /> 
-<img src="./images/badge-ibm-devops-essentials.png" width="100" height="100" alt="IBM DevOps Essentials" title="IBM DevOps Essentials" />
-<img src="./images/badge-ibm-swe-funamentals.png" width="100" height="100" alt="IBM Applied Software Engineering" title="IBM Applied Software Engineering" /> 
-<img src="./images/badge-cla.png" width="100" height="100" alt="C Certified Associate Programmer" title="C Certified Associate Programmer" />
+- MSc & BSc in Software Engineering (Vermont Technical College)
+- **IBM:** AI Developer Professional, DevOps and Software Engineering Professional
+- **Meta:** Database Engineer, Full-Stack Software Engineer
+- **AWS:** Cloud Technology Consultant
+- **Amazon:** Software Development Professional
 
-<!--
-**DavidMiserak/DavidMiserak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🏆 Career Highlights
 
-Here are some ideas to get you started:
+- Built a hypervisor-based cluster to simulate a submarine system for the US Navy
+- Converted a legacy audit system to handle 1 GiB/second bursts using cloud technologies
+- Implemented real-time transaction encryption systems for American Express
+- Independently resolved a critical project that had been stalled for 18 months
+- Prevented a client from losing $400,000 daily revenue with a custom detection tool
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Specializations
+
+- Open Source Software Development (Linux Foundation)
+- React Native & Python Programming
+- Go (Golang) Programming
+- People and Soft Skills
+
+## 📫 Connect with Me
+
+- Email: David.Miserak@gmail.com
+- LinkedIn: [linkedin.com/in/miserak](https://linkedin.com/in/miserak)
+- Credly: [credly.com/users/david-miserak](https://credly.com/users/david-miserak)
+
+## ⚡ Fun Facts
+
+- If I had to learn to code from scratch again, I would start with Pascal
+- Pronouns: He/Him
