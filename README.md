@@ -2,6 +2,19 @@
 
 DevOps Consultant and Software Engineer with a passion for cloud technologies and automation.
 
+## 🚀 Featured Projects
+
+### [GoCard](https://github.com/DavidMiserak/GoCard) - A File-Based Spaced Repetition System
+
+A lightweight, markdown-based flashcard application built in Go that:
+
+- Uses plain Markdown files organized in directories as its data source
+- Features a clean terminal UI with rich Markdown rendering
+- Implements an enhanced SM-2 spaced repetition algorithm
+- Integrates seamlessly with Git for version control of your knowledge base
+
+[![Go Report Card](https://goreportcard.com/badge/github.com/DavidMiserak/GoCard)](https://goreportcard.com/report/github.com/DavidMiserak/GoCard)
+
 ## 🛠️ Key Skills & Technologies
 
 - **Languages:** Python, JavaScript, Go, Java, SQL, Bash
