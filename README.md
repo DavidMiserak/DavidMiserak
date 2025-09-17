@@ -1,102 +1,142 @@
 # 👋 Hi, I'm David Miserak
 
-Senior Software Engineer with 10+ years of experience building scalable distributed systems and leading technical initiatives.
-Expertise in full-stack development, cloud-native architectures, and modern software engineering practices.
+Senior Software Engineer specializing in legacy system modernization
+and process automation. I dive deep into existing systems to deliver
+measurable business results through technical transformation.
 
-## 🚀 Featured Projects
+## 🏆 Proven Results
 
-### [GoCard](https://github.com/DavidMiserak/GoCard) - A File-Based Spaced Repetition System
+### 💰 $3.6M Cost Savings - Payment Processing Solution
 
-A lightweight, markdown-based flashcard application built in Go that:
+Resolved critical payment encryption roadblock in 6 weeks that had
+blocked development teams for 18 months at American Express. Delivered
+real-time encryption service processing 1M+ transactions/day with
+sub-50ms latency while achieving regulatory compliance across
+international markets.
 
-- Uses plain Markdown files organized in directories as its data source
-- Features a clean terminal UI with rich Markdown rendering
-- Implements an enhanced SM-2 spaced repetition algorithm
-- Integrates seamlessly with Git for version control of your knowledge base
+### ⚡ 20x Performance Improvement - Data Processing Transformation
 
-[![Go Report Card](https://goreportcard.com/badge/github.com/DavidMiserak/GoCard)](https://goreportcard.com/report/github.com/DavidMiserak/GoCard)
+Redesigned legacy monolithic system into cloud-native microservices,
+improving throughput by 20x and reducing operational costs by 60%
+while handling 1GB/s data streams for critical operations.
 
-## 💼 Professional Accomplishments
+### 🧪 $5M Cost Savings - Automation Framework
 
-### 💰 $3.6M Payment Processing Solution
-
-Engineered a critical payment processing system solution in just 6 weeks that had been blocked for 18 months at American Express, saving $3.6M and enabling real-time encryption service processing 1M+ transactions/day with p99 latency under 50ms.
-
-### ⚡ 20x Performance Improvement  
-
-Redesigned legacy monolithic audit system into microservices at GDMS, improving throughput by 20x and reducing operational costs by 60% while handling 1GB/s data streams.
-
-### 🧪 $5M Cost Savings Through Automation
-
-Built automated testing framework that accelerated delivery timeline by 6 months, saving $5M in contractor costs.
-Created distributed testing framework enabling parallel execution across 100+ nodes, reducing test time from 8 hours to 45 minutes.
+Built comprehensive automated testing framework that eliminated manual
+contractor processes, accelerating delivery timelines by 6 months and
+saving $5M in operational costs.
 
 ### 🛡️ Revenue Protection System
 
-Built payment processing monitoring tools at Vertek Corporation preventing $400K/day revenue loss across 100+ retail sites.
+Developed monitoring tools preventing $400K/day revenue loss across
+100+ retail locations through proactive system monitoring and
+automated alerting.
 
-### 🧬 Genomic Research Innovation
+### 🏛️ Platform Modernization for 2M+ Users
 
-Developed web application for genomic data visualization using React and D3.js, and built distributed computing pipeline on 20-node cluster, reducing genomic analysis time from weeks to hours.
+Led technical transformation of government systems serving 3 states,
+migrating from 1980s COBOL/VBA/Access systems to modern web-based
+platform, enabling self-service access that previously required manual
+customer service intervention.
 
-### 🏛️ Enterprise Government Systems
+## 🚀 Technical Adaptability
 
-Architected and delivered core modules for a $70M government benefits system serving 3 states and 2M+ citizens, including RESTful and GraphQL APIs handling 100K+ requests per minute.
+I specialize in diving into legacy systems regardless of age or
+technology stack - from 1980s COBOL to modern cloud platforms. My
+approach focuses on understanding existing business processes and
+delivering automation that provides immediate measurable value.
+
+**Core Strengths:**
+
+- **Legacy System Analysis**: Rapid assessment and modernization of systems spanning decades of technology evolution
+- **Process Automation**: Converting manual workflows into automated solutions that reduce costs and eliminate errors
+- **Performance Optimization**: Identifying and resolving bottlenecks that limit system throughput and user experience
+- **Data Integration**: Connecting disparate systems to enable seamless information flow
+- **Zero-Downtime Migrations**: Implementing new systems while maintaining continuous business operations
 
 ## 🛠️ Technical Skills
 
-**Languages:** C, C++, Python, TypeScript/JavaScript, Go, Java, SQL, GraphQL, Bash  
-**Frontend:** React, Next.js, Vue.js, Redux/Zustand, Tailwind CSS, React Native  
-**Backend:** Node.js, FastAPI, Django, Spring Boot, Flask, gRPC, WebSockets  
-**Databases:** PostgreSQL, MongoDB, Redis, Elasticsearch, DynamoDB  
-**Cloud & Infrastructure:** AWS (Lambda, ECS, S3, RDS), GCP, Docker, Kubernetes, Terraform  
-**DevOps & Tools:** Git, GitHub Actions, Jenkins, CI/CD, GitOps, DataDog, Grafana, Jest, Pytest  
-**Architecture:** Microservices, Event-Driven Design, Domain-Driven Design, API Design, System Design  
-**AI & Data:** Machine Learning, PyTorch, NumPy, Pandas
+- **Languages:** Python, Java/Kotlin, JavaScript/TypeScript, Go, C/C++, SQL, Ruby
+- **Backend & APIs:** Django, Flask, Spring Boot, Node.js/Express, Ruby on Rails, RESTful APIs, GraphQL
+- **Cloud & Infrastructure:** AWS, Google Cloud, Docker, Kubernetes, Terraform, CI/CD Pipelines
+- **Databases:** PostgreSQL, MySQL, MongoDB, Redis, BigQuery, Database Design & Optimization
+- **Frontend:** React, Angular, Next.js, React Native, Responsive Design
+- **Systems:** Linux, Shell Scripting, Performance Monitoring, Distributed Systems
 
-## 🧠 Certifications & Education
+## 🧠 Education
 
-**Education:**
+- **Master of Science in Software Engineering** - Vermont Technical College (2021)
+- **Bachelor of Science in Software Engineering** - Vermont Technical College (2015)
 
-- MSc in Software Engineering (Vermont Technical College)
-- BSc in Software Engineering (Vermont Technical College)
+## 📜 Professional Certifications
 
-**Recent Certifications:**
+### Meta Certifications
 
-- **IBM:** AI Developer Professional (2025)
-- **Meta:** Database Engineer (2025)
-- **Amazon:** Software Development Professional (2024)
-- **AWS:** Cloud Technology Consultant (2024)
-- **IBM:** DevOps and Software Engineering Professional (2024)
-- **Meta:** Full-Stack Software Engineer (2024)
-- **C++ Institute:** C Certified Associate Programmer (2019)
+- **Meta Generalist Software Engineer Certificate** (August 2025)
+- **Meta Android Developer** (August 2024)
+- **Meta Full-Stack Engineer Certificate** (October 2024)
+- **Meta Database Engineer** (March 2025)
+- **Meta React Native** (October 2024)
+- **Meta Back-End Developer** (September 2024)
+- **Meta Front-End Developer** (September 2024)
 
-## 🏆 Career Highlights
+### Amazon/AWS Certifications
 
-- Built a hypervisor-based cluster to simulate a submarine system for the US Navy
-- Converted a legacy audit system to handle 1 GiB/second bursts using cloud technologies
-- Implemented real-time transaction encryption systems for American Express
-- Independently resolved a critical project that had been stalled for 18 months
-- Prevented a client from losing $400,000 daily revenue with a custom detection tool
-- Led migration of on-premise applications to cloud, achieving 99.99% uptime SLA
-- Developed real-time financial analysis tools processing 50GB+ daily market data with sub-second query performance
-- Built comprehensive testing strategies achieving 90%+ code coverage
+- **Amazon Software Developer** (December 2024)
+- **AWS Cloud Technology Consultant** (October 2024)
 
-## 📚 Specializations
+### IBM Certifications
 
-- **The Linux Foundation:** Open Source Software Development (2025)
-- **IBM:** People and Soft Skills (2024)
-- **Meta:** React Native (2024)  
-- **University of California, Irvine:** Programming with Go (Golang) (2024)
-- **University of Michigan:** Python 3 Programming (2024)
+- **IBM Java Developer** (August 2025)
+- **IBM Back-end JavaScript Developer** (July 2025)
+- **IBM AI Developer** (March 2025)
+- **IBM DevOps and Software Engineering** (October 2024)
+- **People and Soft Skills for Professional Success** (October 2024)
 
-## 📫 Connect with Me
+### Google Certifications
 
-- Email: David.Miserak@gmail.com
-- LinkedIn: [linkedin.com/in/miserak](https://linkedin.com/in/miserak)
-- Credly: [credly.com/users/david-miserak](https://credly.com/users/david-miserak)
+- **Google IT Support** (July 2025)
+- **Google Cloud Platform - BigQuery**
+- **Google Cloud Platform - Terraform**
 
-## ⚡ Fun Facts
+### University Certifications
 
-- If I had to learn to code from scratch again, I would start with Pascal
-- Pronouns: He/Him
+- **Python 3 Programming** - University of Michigan (December 2024)
+- **Programming with Google Go** - UC Irvine (November 2024)
+- **Angular 17 Specialization** - LearnQuest (August 2025)
+
+### Specialized Platform Certifications
+
+- **LinkedIn Learning Ruby on Rails** (February 2025)
+- **C++ Institute CPP (C++ Certified Professional Programmer)** (June 2025)
+- **C++ Institute CLA (C Certified Associate Programmer)** (July 2019)
+
+### Additional Specialized Training
+
+- **BigQuery Advanced Data Warehousing**
+- **JMeter Performance Testing**
+- **Next.js React Framework**
+- **Vim Advanced Text Editor**
+
+## 🚀 Featured OSS Project
+
+### [GoCard](https://github.com/DavidMiserak/GoCard) - File-Based Spaced Repetition System
+
+A lightweight, markdown-based flashcard application built in Go featuring:
+
+- Plain Markdown file organization as data source
+- Clean terminal UI with rich Markdown rendering
+- Enhanced SM-2 spaced repetition algorithm
+- Git integration for knowledge base version control
+
+[![Go Report Card](https://goreportcard.com/badge/github.com/DavidMiserak/GoCard)](https://goreportcard.com/report/github.com/DavidMiserak/GoCard)
+
+## 📫 Contact
+
+- **Email:** David.Miserak@gmail.com
+- **LinkedIn:** [linkedin.com/in/miserak](https://linkedin.com/in/miserak)
+- **Credly:** [credly.com/users/david-miserak](https://credly.com/users/david-miserak)
+
+---
+
+*Delivering measurable results through technical transformation of legacy systems and manual processes.*
